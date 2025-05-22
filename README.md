@@ -57,7 +57,6 @@ N, I, O, T: network size
 
 ant-v4-recurrent-rl/
 ├── train.py                # Main training loop
-├── net.py                  # Custom network definition (assumed)
 ├── transfer_new.pickle     # Trained model (saved periodically)
 ├── trajectory_0.npy        # Reward trajectory
 ├── rewards_ant_hier_transfer.png
