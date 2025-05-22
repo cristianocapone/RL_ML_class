@@ -56,10 +56,15 @@ N, I, O, T: network size
 📦 File Structure
 
 ant-v4-recurrent-rl/
+
 ├── train.py                # Main training loop
+
 ├── transfer_new.pickle     # Trained model (saved periodically)
+
 ├── trajectory_0.npy        # Reward trajectory
+
 ├── rewards_ant_hier_transfer.png
+
 └── AntMujocoEnv-v4*.mp4    # Rendered video episodes
 
 💾 Model Persistence
