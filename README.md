@@ -4,8 +4,6 @@ This repository contains a reinforcement learning (RL) agent that learns to walk
 
 https://gym.openai.com/envs/Ant-v4/
 
-https://user-images.githubusercontent.com/your-gif-link-here.gif ← (add your demo video or gif)
-
 🚀 Features
 
 ✅ Uses Ant-v4 MuJoCo environment from OpenAI Gym
@@ -64,6 +62,7 @@ ant-v4-recurrent-rl/
 ├── trajectory_0.npy        # Reward trajectory
 ├── rewards_ant_hier_transfer.png
 └── AntMujocoEnv-v4*.mp4    # Rendered video episodes
+
 💾 Model Persistence
 
 To resume training or transfer learning:
